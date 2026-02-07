@@ -1,4 +1,6 @@
 # AI-Ready Serverless Customer Support Platform (AWS)
+<img width="850" height="1100" alt="image" src="https://github.com/user-attachments/assets/9bca493a-36d8-4b90-9c60-8dd71167ca21" />
+
 
 A production-style, serverless backend for customer support conversations built on AWS.  
 The system focuses on **infrastructure, safety, and escalation**, not just AI responses.
